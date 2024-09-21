@@ -74,7 +74,6 @@ p {
 }
 
 .feature-icon {
-    display: block;
     color: #ef8172;
 }
 
@@ -86,4 +85,3 @@ p {
     font-size: 1.5rem;
     font-weight: bold;
 }
-
