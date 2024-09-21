@@ -53,6 +53,28 @@ h1 {
     width: 60%;
 }
 
+/* Features */
 
+#features {
+    text-align: center;
+}
 
+.feature-icon {
+    display: block;
+    color: #ef8172;
+}
+
+.feature-icon:hover {
+    color: #ff4c68;
+}
+
+.feature-point {
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.feature-description {
+    color: #8f8f8f;
+}
 
