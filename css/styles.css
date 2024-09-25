@@ -108,6 +108,10 @@ p {
     margin: 20px;
 }
 
+.carousel-item {
+    
+}
+
 #press {
     background-color: #ef8172;
     text-align: center;
@@ -118,3 +122,4 @@ p {
     width: 15%;
     margin: 10px 50px 50px;
 }
+
