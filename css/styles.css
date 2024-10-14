@@ -132,3 +132,16 @@ p {
 .pricing-column {
     padding: 3% 2%;
 }
+
+@media (max-width: 990px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .iphone{
+        position: static;
+        transform: rotate(0);
+        margin-left: 0;
+    }
+}
