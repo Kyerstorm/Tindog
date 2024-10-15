@@ -51,6 +51,11 @@ p {
     font-family: 'Montserrat-Light';
 }
 
+.nav-link:hover {
+    cursor: pointer;
+    color: white;
+}
+
 /* Download Buttons */
 
 .dl-btn {
